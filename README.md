@@ -7,6 +7,16 @@ Four social media icons (Apple, Facebook, GitHub, Instagram) with glowing neon e
 
 ---
 
+**[👉 View Live Demo](https://professoralbay.github.io/genesis)**
+
+---
+
+## 🎬 Demo
+
+![Demo](https://github.com/professoralbay/genesis/blob/main/Kay%C4%B1t%202026-03-22%20165817.gif)
+
+---
+
 ## ✨ Features
 
 - **Inline SVG icons** — no CDN needed, works offline
