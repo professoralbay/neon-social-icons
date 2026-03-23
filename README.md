@@ -7,7 +7,7 @@ Four social media icons (Apple, Facebook, GitHub, Instagram) with glowing neon e
 
 ---
 
-**[👉 View Live Demo](https://professoralbay.github.io/genesis)**
+**[👉 View Live Demo](https://github.com/professoralbay/neon-social-icons/genesis)**
 
 ---
 
